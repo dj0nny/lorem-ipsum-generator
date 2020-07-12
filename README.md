@@ -1,24 +1,11 @@
-# lorem-ipsum-generator
+# Lorem Ipsum Generator
 
-## Project setup
-```
-npm install
-```
+**Tier:** 1-Beginner
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+This app should generate passages of lorem ipsum text suitable for use as placeholder copy in web pages, graphics, and more.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## User Stories
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+-   [ ] User can type into an input field the number of paragraphs of lorem ipsum to be generated
+-   [ ] Use can see the generated paragraphs of lorem ipsum and is able to copy them
