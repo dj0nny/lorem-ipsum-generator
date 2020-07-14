@@ -1,5 +1,9 @@
 # Lorem Ipsum Generator
 
+Idea from [here](https://github.com/florinpop17/app-ideas)
+
+Demo: [Netlify](https://quirky-blackwell-527fbb.netlify.app/)
+
 **Tier:** 1-Beginner
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
