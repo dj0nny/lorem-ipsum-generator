@@ -18,3 +18,10 @@ textarea {
   color: red;
   font-weight: bold;
 }
+
+span.copy {
+  display: inline-block;
+  margin-left: 15px;
+  color: green;
+  font-weight: bold;
+}
